@@ -10,7 +10,7 @@ The company is looking at prospective properties to buy to enter the market. Req
 
 The company wants to know:
 1. Which variables are significant in predicting the price of a house, and
-2. How well those varia2. bles describe the price of a house.
+2. How well those variables describe the price of a house.
 
 Also, determine the optimal value of lambda for ridge and lasso regression.
 
